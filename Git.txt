@@ -12,4 +12,4 @@ merge : 합체
 
 
 init -> add -> commit x 100 (직접) -> push 끗
-
+   
